@@ -1,0 +1,4 @@
+https://github.com/henrystockza/lists
+https://github.com/henrystockza/linux
+https://github.com/henrystockza/python
+https://github.com/henrystockza/powershell
